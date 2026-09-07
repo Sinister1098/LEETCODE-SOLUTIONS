@@ -12,6 +12,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
