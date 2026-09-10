@@ -15,6 +15,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0086-partition-list) |
+| [0206-reverse-linked-list](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
