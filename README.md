@@ -34,4 +34,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
