@@ -25,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0263-ugly-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
