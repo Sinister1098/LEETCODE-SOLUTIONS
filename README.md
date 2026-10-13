@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +45,7 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +62,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
