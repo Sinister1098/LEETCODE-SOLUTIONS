@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0086-partition-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -30,6 +32,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
@@ -47,4 +50,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
