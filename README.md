@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
