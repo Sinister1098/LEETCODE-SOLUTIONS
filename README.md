@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0086-partition-list) |
+| [0287-find-the-duplicate-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -73,9 +75,19 @@
 | [0035-search-insert-position](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sinister1098/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
